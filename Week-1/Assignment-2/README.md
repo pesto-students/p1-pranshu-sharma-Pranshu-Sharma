@@ -1,7 +1,7 @@
 ﻿# Design Thinking
 
 
-![](Aspose.Words.a1027eb5-e5f0-4258-889b-dbb616bb2fe2.001.png)
+![](roads-intersection.png)
 
 *Visual Representation of Road Intersection* (Created online at https://app.diagrams.net/ using some basic geometric shapes and graphics)
 
