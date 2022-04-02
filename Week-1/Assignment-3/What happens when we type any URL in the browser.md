@@ -21,7 +21,7 @@ When you type any URL in the web browser, to load the page, it first has to find
 
 9. There will be **immediate** interpretation and rendition of the HTML file by some browsers. They will request the **objects in parallel**, filling in the objects as they are received. Others will wait to receive all the objects and then render and display the HTML file.
 
-10. ` `**HTML content is rendered in phases**. Firstly, the bare-bone HTML structure is rendered by the browser. Secondly, multiple GET requests are sent to fetch other hyperlinked stuff e.g. If you get an image as an HTML response in the form of an img tag such as <img src=”/assets/img/set.png” />, the browser will send an HTTP GET request to the server to fetch the image following all the steps that have been covered till now. Static files like **images, JS files, CSS files** are all cached by the browser so that in the future, it doesn’t have to fetch them again.
+10. **HTML content is rendered in phases**. Firstly, the bare-bone HTML structure is rendered by the browser. Secondly, multiple GET requests are sent to fetch other hyperlinked stuff e.g. If you get an image as an HTML response in the form of an img tag such as "<img src=”/assets/img/set.png” />", the browser will send an HTTP GET request to the server to fetch the image following all the steps that have been covered till now. Static files like **images, JS files, CSS files** are all cached by the browser so that in the future, it doesn’t have to fetch them again.
 
 That’s it. The browser will then wait for the user to request another file to begin everything again.
 
