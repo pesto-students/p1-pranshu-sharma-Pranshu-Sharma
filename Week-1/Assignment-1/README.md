@@ -20,31 +20,31 @@
 
 Smarto Virtual Whiteboard provides a shared visual space where teachers and students can work together. Students can actively participate which makes the online lessons more interactive. Teachers can explain the concepts in a better way through images, posters, flow charts, and presentations, which makes the online lessons easy and enjoyable for the students.
 
-1. **How do you write on a Smarto Virtual Whiteboard?**
+2. **How do you write on a Smarto Virtual Whiteboard?**
 
 To use Smarto Virtual Whiteboard, you have to select the Text tool on the top left of the screen with the mouse or your finger. Now, click anywhere on the screen where you want to write your text and then start writing your text.
 
-1. **How can it benefit student learning?**
+3. **How can it benefit student learning?**
 
 Smarto Virtual Whiteboard is incredibly engaging for online classrooms. It enhances collaboration and closer interaction of students and teachers during the lessons. Teachers can present a problem to the students, and then pass over the interactive whiteboard to the students to let them solve it. The technology provides the feature to include images, videos, graphics, flowcharts which increases engagement in students and encourages active learning.
 
-1. **How do teachers use it?**
+4. **How do teachers use it?**
 
 Teachers can write text and show images, videos or presentations to the whole class at the same time. Teachers aren&#39;t limited in what they can present to students. They can get students to work on the board. They use both ways of learning, auditory and visual.
 
-1. **How is it different from traditional boards?**
+5. **How is it different from traditional boards?**
 
 Traditional boards have limited space whereas Smarto Virtual Whiteboard has unlimited space which means you can write as much as you want anywhere on the screen and can zoom infinitely. Teachers rely on a constant supply of chalks, markers, and duster for traditional boards, but with the Smarto Virtual Whiteboard, you neither need any additional supply nor they need to be wiped clean after every use.
 
-1. **Is the service free for everyone?**
+6. **Is the service free for everyone?**
 
 We are launching it as a free software for students but it operates on a paid subscription plan for schools/colleges/institutions.
 
-1. **How much space is there on the whiteboard?**
+7. **How much space is there on the whiteboard?**
 
 Smarto Virtual Whiteboard has unlimited space. You can keep on collaborating which isn&#39;t possible on a normal whiteboard/blackboard. You can zoom in infinitely until you are happy with the position of your board where you need to write your text.
 
-1. **How do collaborations work?**
+8. **How do collaborations work?**
 
 Collaborations are easy as a click. You just have to send an invite link and it helps you to collaborate instantly. It&#39;s super easy to work together on Smarto Virtual Whiteboard.
 
@@ -54,14 +54,14 @@ Collaborations are easy as a click. You just have to send an invite link and it 
 
 It&#39;s a fun and user-friendly tool for newcomers as well. There is real time sync and faster performance. It&#39;s highly functional. You can add images, videos, documents. It has scribble tool in various colors and sizes, lines, highlighters, multitude of shapes, graphic icons, building blocks for creating tables and flowcharts for easy and effective communication. It also has live cursors, polls to engage everyone on the board. Class isn&#39;t boring with the Smarto Virtual Whiteboard. There will be increased engagement rate and overall performance of the students in online classrooms after using the Smarto Virtual Whiteboard. It is free for the students.
 
-1. **What are the limitations of Smarto Virtual Whiteboard?**
+2. **What are the limitations of Smarto Virtual Whiteboard?**
 
 A maximum of 10 collaborators can edit simultaneously for now. Boards can only be saved as images but we are working on it to save them as files or documents. It works in India only for now. We are working to make it international. It supports only 5 languages for now.
 
-1. **What are the privacy concerns with this product?**
+3. **What are the privacy concerns with this product?**
 
 Users might get concerned about the issue they faced while using Zoom, where random people could join the meetings even if they were not invited. But we have considered that thing already and have built the product accordingly. We have also done rigorous testing to make sure no such thing is happening.
 
-1. **How do we compete with our competitors?**
+4. **How do we compete with our competitors?**
 
 Our subscription service is much simpler and affordable. We have added more tools for even better productivity. We&#39;re providing 20GB of storage space as compared to 15GB of space provided by the competitors.
