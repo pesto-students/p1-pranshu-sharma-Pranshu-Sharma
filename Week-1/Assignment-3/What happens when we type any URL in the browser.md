@@ -1,8 +1,9 @@
-﻿﻿**The browser's main functionality**
+## The browser's main functionality
 
 A browser is an application program for locating, retrieving and displaying content on the WWW, including web pages, images, videos, and other files. As a client/server model, the browser is a client running on a computer that contacts the web server and requests information which is sent to the web browser by the web server which displays the result on the computer or other devices (Internet-enabled) that support a browser.
 
-**What happens when typing the URL in the web browser?**
+
+## What happens when typing the URL in the web browser?
 
 When you type any URL in the web browser, to load the page, it first has to find the IP address of the web server. It asks the Operating System (OS) to check the server name in the local cache. If it is there in the cache, then Rendering Engine renders the web page.
 
@@ -28,7 +29,8 @@ While this is the process that happens when we type a URL in the browser, let’
 
 A browser is a group of structured codes that perform a series of tasks to display a web page on the screen. According to their tasks, they are made as different components.
 
-**High-level architecture of browser**
+
+## High-level architecture of browser
 
 The image shown below displays the main components of a web browser:
 
@@ -50,7 +52,8 @@ The image shown below displays the main components of a web browser:
 
 An important thing to note here is that in web browsers like Google Chrome, each tab runs in a separate process (multiple instances of the rendering engine).
 
-**Rendering engine**
+
+### Rendering engine
 
 The networking layer will start sending the contents of the requested documents to the rendering engine in chunks of 8KB.
 
