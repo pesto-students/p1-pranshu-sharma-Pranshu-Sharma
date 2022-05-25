@@ -1,22 +1,21 @@
-# Assignment-4.3
+// Assignment-4.3
 
-Implement Fibonacci Series with Iterators:
+// Implement Fibonacci Series with Iterators:
 
-Sample output:
-```sh
-The Fibonacci Series is:
-0
-1
-1
-2
-3
-5
-8
-```
+// Sample output:
 
-## Solution 1 (using next function)
+// The Fibonacci Series is:
+// 0
+// 1
+// 1
+// 2
+// 3
+// 5
+// 8
 
-```sh
+
+// Solution 1 (using next function)
+
 function fibonacci(n) {
    return n < 1 ? 0
         : n <= 2 ? 1
@@ -47,25 +46,22 @@ console.log(fibSeriesIterator.next());
 console.log(fibSeriesIterator.next());
 console.log(fibSeriesIterator.next());
 console.log(fibSeriesIterator.next());
-```
 
-#### Output
-```sh
-The Fibonacci Series is:
-{ value: 0, done: false }
-{ value: 1, done: false }
-{ value: 1, done: false }
-{ value: 2, done: false }
-{ value: 3, done: false }
-{ value: 5, done: false }
-{ value: 8, done: false }
-{ value: undefined, done: true }
-```
+// Output
+
+// The Fibonacci Series is:
+// { value: 0, done: false }
+// { value: 1, done: false }
+// { value: 1, done: false }
+// { value: 2, done: false }
+// { value: 3, done: false }
+// { value: 5, done: false }
+// { value: 8, done: false }
+// { value: undefined, done: true }
 
 
-## Solution 2 (using Symbol.iterator)
+// Solution 2 (using Symbol.iterator)
 
-```sh
 function fibonacci(n) {
    return n < 1 ? 0
         : n <= 2 ? 1
@@ -94,16 +90,14 @@ console.log('The Fibonacci Series is:');
 for(const n of fibSeries(6)){
   console.log(n)
 }
-```
 
-#### Output
-```sh
-The Fibonacci Series is:
-0
-1
-1
-2
-3
-5
-8
-```
+// Output
+
+// The Fibonacci Series is:
+// 0
+// 1
+// 1
+// 2
+// 3
+// 5
+// 8

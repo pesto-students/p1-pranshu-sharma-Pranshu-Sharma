@@ -1,14 +1,12 @@
-# Assignment-4.2
+// Assignment-4.2
 
-Create an object called **Teacher** derived from the **Person** class, and implement a method called **teach** which receives a string called **subject**, and prints out:
+// Create an object called **Teacher** derived from the **Person** class, and implement 
+// a method called **teach** which receives a string called **subject**, and prints out:
 
-```sh
-[teacher's name] is now teaching [subject]
-```
+// [teacher's name] is now teaching [subject]
 
-## Solution
+// Solution
 
-```sh
 var Person = function() {};
 
 Person.prototype.initialize = function(name, age){
@@ -28,9 +26,7 @@ var him = new Teacher();
 
 him.initialize("Adam", 45);
 him.teach("Inheritance");
-```
 
-### Output
-```sh
-Adam is now teaching Inheritance
-```
+// Output
+
+// Adam is now teaching Inheritance
