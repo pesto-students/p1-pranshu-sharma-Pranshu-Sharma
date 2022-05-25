@@ -1,10 +1,10 @@
-# Assignment-5.1
+// Assignment-5.1
 
-Using Async/Await and Generators, create separate functions and achieve the same functionality. Execute 3 callback functions asynchronously, for example doTask1(), doTask2() and doTask3().
+// Using Async/Await and Generators, create separate functions and achieve the same functionality.
+// Execute 3 callback functions asynchronously, for example doTask1(), doTask2() and doTask3().
 
-## Solution
+// Solution
 
-```sh
 // 3 asynchronous callback functions
 
 function doTask1(val) {
@@ -24,7 +24,6 @@ function doTask3(val) {
     console.log(`Task 3 Done with value ${val}!`);
   }, 4000);
 }
-
 
 // Execution using Async/Await
 
@@ -52,8 +51,7 @@ executeAsyncFunction
     doTask3(val);
   });
 
-
-// Execution using Generator 
+// Execution using Generator
 
 async function* asyncGeneratorFunction() {
   let promise = new Promise((resolve, reject) => {
@@ -79,4 +77,3 @@ executeAsyncGeneratorFunction
   .then((val) => {
     doTask3(val);
   });
-```
