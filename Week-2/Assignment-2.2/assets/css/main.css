@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#hover-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  margin: auto;
+}
+
+#hover-div div{
+  display: flex;
+  flex-direction: row;
+}
+
+#hover-div span{
+  position: absolute;
+  font-size: 30px;
+  top: 185px;
+  z-index: -1;
+}
+
+#hover-div:hover{
+  cursor: pointer;
+}
+
+.box{
+  transition: 1s;
+  height: 200px;
+  width: 200px;
+}
+
+#hover-div .red-box{
+  background-color: #FF5252;
+  transform-origin: top left;
+  transform: rotate(0deg);
+}
+
+#hover-div:hover .red-box{
+  transform-origin: top left;
+  transform: rotate(90deg);
+}
+
+#hover-div .yellow-box{
+  background-color: #EEFF41;
+  transform-origin: top right;
+  transform: rotate(0deg);
+}
+
+#hover-div:hover .yellow-box{
+  transform-origin: top right;
+  transform: rotate(-90deg);
+}
+
+#hover-div .blue-box{
+  background-color: #40C4FF;
+  transform-origin: bottom left;
+  transform: rotate(0deg);
+}
+
+#hover-div:hover .blue-box{
+  transform-origin: bottom left;
+  transform: rotate(-90deg);
+}
+
+#hover-div .green-box{
+  background-color: #69F0AE;
+  transform-origin: bottom right;
+  transform: rotate(0deg);
+}
+
+#hover-div:hover .green-box{
+  transform-origin: bottom right;
+  transform: rotate(90deg);
+}
