@@ -1,0 +1,41 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  padding: 40px;
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  border: none;
+  font-size: 15px;
+  padding: 8px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  min-width: 120px;
+}
+
+.add-step-button {
+  background: #822dab;
+  color: white;
+}
+
+.add-step-button:hover {
+  background: #7f11b6;
+  color: white;
+}
+
+.reset-steps-button {
+  background: #f0f0f0;
+  color: black;
+}
+
+.reset-steps-button:hover {
+  background: #d1d1d1;
+  color: black;
+}
