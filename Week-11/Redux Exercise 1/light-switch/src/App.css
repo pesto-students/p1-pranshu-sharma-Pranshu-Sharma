@@ -1,0 +1,38 @@
+html,
+body,
+#root,
+.room {
+  height: 100%;
+  margin: 0;
+}
+
+.room {
+  padding: 40px;
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  background: lightblue;
+  border: 1px solid lightcyan;
+  font-size: 15px;
+  padding: 8px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  color: black;
+}
+
+button:hover {
+  background: lightcyan;
+  color: black;
+}
+
+.lit {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
